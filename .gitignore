@@ -1,3 +1,10 @@
+# build dir
+/build
+
+# Vim and emacs temp files
+*swp
+*~
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
